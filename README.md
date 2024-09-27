@@ -7,7 +7,7 @@ Este repositório foi criado com o objetivo de ajudar entusiastas de Machine Lea
 
 ## Estrutura do Repositório
 
-O conteúdo deste repositório está organizado em três subtemas principais, com cada técnica abordada em Notebooks separados. **Os algoritmos de Machine Learning não serão traduzidos para português**, mantendo os seus nomes em inglês.
+O conteúdo deste repositório está organizado em três subtemas principais, com cada técnica abordada em Notebooks separados.
 
 ### 1. **Pré-Processamento de Dados e Feature Engineering**
 Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser preparados. Esta secção cobre:
@@ -17,7 +17,7 @@ Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser p
 - Criação de Novas Features
 - Tratamento de Dados Faltantes
 
-_Datasets e Notebooks estão disponíveis na pasta_ `data-preprocessing-e-feature-engineering`.
+_Datasets e Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 
 ### 2. **Aprendizagem Supervisionada**
 Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde os dados possuem rótulos para o treino do modelo. Algoritmos cobertos incluem:
@@ -27,7 +27,7 @@ Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde o
 - Decision Trees
 - Random Forests
 
-_Datasets e Notebooks estão disponíveis na pasta_ `supervised-ml`.
+_Datasets e Notebooks estão disponíveis na pasta_ `2-aprendizagem-supervisionada`.
 
 ### 3. **Aprendizagem Não Supervisionada**
 A aprendizagem não supervisionada é utilizada quando os dados não possuem rótulos, e o objetivo é descobrir padrões escondidos. Algoritmos cobertos incluem:
@@ -36,7 +36,7 @@ A aprendizagem não supervisionada é utilizada quando os dados não possuem ró
 - Hierarchical Clustering
 - Autoencoder Neural Networks
 
-_Datasets e Notebooks estão disponíveis na pasta_ `unsupervised-ml`.
+_Datasets e Notebooks estão disponíveis na pasta_ `3-aprendizagem-nao-supervisionada`.
 
 ## Requisitos
 
