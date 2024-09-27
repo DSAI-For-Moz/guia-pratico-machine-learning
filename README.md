@@ -17,7 +17,7 @@ Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser p
 - Criação de Novas Features
 - Tratamento de Dados Faltantes
 
-_Datasets e Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
+_Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 
 ### 2. **Aprendizagem Supervisionada**
 Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde os dados possuem rótulos para o treino do modelo. Algoritmos cobertos incluem:
@@ -27,7 +27,7 @@ Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde o
 - Decision Trees
 - Random Forests
 
-_Datasets e Notebooks estão disponíveis na pasta_ `2-aprendizagem-supervisionada`.
+_Notebooks estão disponíveis na pasta_ `2-aprendizagem-supervisionada`.
 
 ### 3. **Aprendizagem Não Supervisionada**
 A aprendizagem não supervisionada é utilizada quando os dados não possuem rótulos, e o objetivo é descobrir padrões escondidos. Algoritmos cobertos incluem:
@@ -36,7 +36,7 @@ A aprendizagem não supervisionada é utilizada quando os dados não possuem ró
 - Hierarchical Clustering
 - Autoencoder Neural Networks
 
-_Datasets e Notebooks estão disponíveis na pasta_ `3-aprendizagem-nao-supervisionada`.
+_Notebooks estão disponíveis na pasta_ `3-aprendizagem-nao-supervisionada`.
 
 ## Requisitos
 
