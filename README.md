@@ -2,7 +2,7 @@
 
 Este repositório foi criado com o objetivo de ajudar entusiastas de Machine Learning a interagir com técnicas de ML de uma forma prática e acessível, utilizando a língua portuguesa. Aqui, encontrarás exemplos e explicações detalhadas sobre diferentes aspectos do Machine Learning, desde a preparação dos dados até as técnicas mais avançadas.
 
-![Deep Learning vs Machine Learning](./images/72142deep-learning-vs-machine-learning-t.jpg)
+![Deep Learning vs Machine Learning](./images/machine-learning.jpg)
 
 
 ## Estrutura do Repositório
