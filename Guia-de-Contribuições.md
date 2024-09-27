@@ -43,3 +43,17 @@ Certifique-se de seguir as etapas tradicionais do ciclo de Machine Learning. Aqu
   ---
   **Autor:** [Seu Nome](https://github.com/seu-usuario)  
   **Twitter:** [@seu-usuario](https://twitter.com/seu-usuario)
+
+## Armazenamento de Datasets
+
+- Todos os datasets utilizados nos notebooks devem ser armazenados dentro da pasta `datasets/`, na subpasta correspondente ao tema:
+
+   - `datasets/1-pre-processamento/`
+   - `datasets/2-aprendizagem-supervisionada/`
+   - `datasets/3-aprendizagem-nao-supervisionada/`
+
+## Outras Instruções
+
+- Certifique-se de que o código está bem documentado e segue uma estrutura organizada.
+- Faça um _pull request_ para submeter sua contribuição. Ela será revista antes de ser incorporada ao repositório.
+
