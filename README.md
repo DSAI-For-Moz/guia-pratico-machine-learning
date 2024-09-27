@@ -6,7 +6,7 @@ Este repositório foi criado com o objetivo de ajudar entusiastas de Machine Lea
 
 O conteúdo deste repositório está organizado em três subtemas principais, com cada técnica abordada em Notebooks separados. **Os algoritmos de Machine Learning não serão traduzidos para português**, mantendo os seus nomes em inglês.
 
-### 1. **Pré-Processamento de Dados e Engenharia de Features**
+### 1. **Pré-Processamento de Dados e Feature Engineering**
 Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser preparados. Esta secção cobre:
 - Limpeza de Dados
 - Transformação de Variáveis
