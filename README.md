@@ -50,3 +50,10 @@ Os requisitos específicos para cada técnica (bibliotecas e pacotes necessário
 1. Clone este repositório: 
    ```bash
    git clone https://github.com/teu_repositorio_ml
+
+## Guia de Contribuições
+
+Este repositório foi construído com o apoio da nossa comunidade — entusiastas e especialistas em Machine Learning que colaboram para compartilhar conhecimento e promover o aprendizado prático. Contribuições são sempre bem-vindas!
+
+Por favor, consulte o [Guia de Contribuições](https://github.com/SluzzleDude/guia-pratico-machine-learning/blob/3069e4123a3c49ffd546570328b42925dab30101/Guia-de-Contribui%C3%A7%C3%B5es.md) para mais detalhes sobre como contribuir para o projeto e garantir que suas submissões sigam os padrões de qualidade e consistência.
+
