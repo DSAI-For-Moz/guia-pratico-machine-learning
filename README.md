@@ -12,31 +12,30 @@ O conteúdo deste repositório está organizado em três subtemas principais, co
 ### 1. **Pré-Processamento de Dados e Feature Engineering**
 Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser preparados. Esta secção cobre:
 - Limpeza de Dados
-- Transformação de Variáveis
+- [Transformação de Variáveis (Parte 1)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_1.ipynb)
+- [Transformação de Variáveis (Parte 2)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_2.ipynb)
 - Normalização/Padronização
-- Criação de Novas Features
 - Tratamento de Dados Faltantes
 
 _Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 
 ### 2. **Aprendizagem Supervisionada**
 Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde os dados possuem rótulos para o treino do modelo. Algoritmos cobertos incluem:
-- Linear Regression
+- [Linear Regression](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/2-aprendizagem-supervisionada/Linear_Regression.ipynb)
 - Logistic Regression
 - Support Vector Machines (SVM)
 - Decision Trees
-- Random Forests
 
 _Notebooks estão disponíveis na pasta_ `2-aprendizagem-supervisionada`.
 
 ### 3. **Aprendizagem Não Supervisionada**
 A aprendizagem não supervisionada é utilizada quando os dados não possuem rótulos, e o objetivo é descobrir padrões escondidos. Algoritmos cobertos incluem:
-- K-Means
-- Principal Component Analysis (PCA)
-- Hierarchical Clustering
-- Autoencoder Neural Networks
+- [K-Means](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/3-aprendizagem-nao-supervisionada/K_Means_Clustering.ipynb)
+- [Hierarchical Clustering](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/3-aprendizagem-nao-supervisionada/Hierarchical_Clustering.ipynb)
+- [Principal Component Analysis (PCA)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/3-aprendizagem-nao-supervisionada/Principal_Component_Analysis.ipynb)
 
 _Notebooks estão disponíveis na pasta_ `3-aprendizagem-nao-supervisionada`.
+
 
 ## Requisitos
 
