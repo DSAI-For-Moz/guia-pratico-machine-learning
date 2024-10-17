@@ -48,7 +48,7 @@ Os requisitos específicos para cada técnica (bibliotecas e pacotes necessário
 
 1. Clone este repositório: 
    ```bash
-   git clone https://github.com/SluzzleDude/guia-pratico-machine-learning.git
+   git clone https://github.com/DSAI-For-Moz/guia-pratico-machine-learning.git
 
 ## Guia de Contribuições
 
