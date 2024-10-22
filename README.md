@@ -14,8 +14,8 @@ Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser p
 - Limpeza de Dados
 - [Transformação de Variáveis (Parte 1)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_1.ipynb)
 - [Transformação de Variáveis (Parte 2)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_2.ipynb)
-- Normalização/Padronização
-- Tratamento de Dados Faltantes
+- [Normalização/Padronização](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/2945c9dc784848f6d013660fb10e4a59b9d35385/1-pre-processamento/Scaling_e_Normaliza%C3%A7%C3%A3o.ipynb)
+- [Tratamento de Dados em Falta](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/2945c9dc784848f6d013660fb10e4a59b9d35385/1-pre-processamento/Tratamento_de_Valores_Nulos.ipynb)
 
 _Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 
