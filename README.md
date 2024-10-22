@@ -22,7 +22,7 @@ _Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 ### 2. **Aprendizagem Supervisionada**
 Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde os dados possuem rótulos para o treino do modelo. Algoritmos cobertos incluem:
 - [Linear Regression](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/2-aprendizagem-supervisionada/Linear_Regression.ipynb)
-- Logistic Regression
+- [Logistic Regression](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/ddd521448a44b244da26e8b4f20fedbddd98cf8e/2-aprendizagem-supervisionada/Logistic_Regression.ipynb)
 - Support Vector Machines (SVM)
 - Decision Trees
 
