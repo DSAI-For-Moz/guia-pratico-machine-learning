@@ -11,7 +11,7 @@ O conteúdo deste repositório está organizado em três subtemas principais, co
 
 ### 1. **Pré-Processamento de Dados e Feature Engineering**
 Antes de aplicarmos qualquer modelo de Machine Learning, os dados precisam ser preparados. Esta secção cobre:
-- Limpeza de Dados
+- [Limpeza de Dados](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/897dc97fbc766ae59f6580b732fe484c5c998811/1-pre-processamento/Limpeza_de_Dados.ipynb)
 - [Transformação de Variáveis (Parte 1)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_1.ipynb)
 - [Transformação de Variáveis (Parte 2)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/1-pre-processamento/Transformacao_de_Variaveis_2.ipynb)
 - [Normalização/Padronização](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/2945c9dc784848f6d013660fb10e4a59b9d35385/1-pre-processamento/Scaling_e_Normaliza%C3%A7%C3%A3o.ipynb)
@@ -23,8 +23,8 @@ _Notebooks estão disponíveis na pasta_ `1-pre-processamento`.
 Nesta secção, abordaremos os algoritmos de Aprendizagem Supervisionada, onde os dados possuem rótulos para o treino do modelo. Algoritmos cobertos incluem:
 - [Linear Regression](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/b764016b6b2d3547e00d6a66d799e83c438b9ba8/2-aprendizagem-supervisionada/Linear_Regression.ipynb)
 - [Logistic Regression](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/ddd521448a44b244da26e8b4f20fedbddd98cf8e/2-aprendizagem-supervisionada/Logistic_Regression.ipynb)
-- Support Vector Machines (SVM)
-- Decision Trees
+- [Support Vector Machines (SVM)](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/897dc97fbc766ae59f6580b732fe484c5c998811/2-aprendizagem-supervisionada/Support_Vector_Machine.ipynb)
+- [Decision Trees](https://github.com/DSAI-For-Moz/guia-pratico-machine-learning/blob/897dc97fbc766ae59f6580b732fe484c5c998811/2-aprendizagem-supervisionada/Decision_Tree.ipynb)
 
 _Notebooks estão disponíveis na pasta_ `2-aprendizagem-supervisionada`.
 
