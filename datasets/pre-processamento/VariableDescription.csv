@@ -1,0 +1,15 @@
+Variable,Description
+Customer Id,Identification number for the Policy holder
+YearOfObservation,year of observation for the insured policy
+Insured_Period,"duration of insurance policy in Olusola Insurance. (Ex: Full year insurance, Policy Duration = 1; 6 months = 0.5"
+Residential,is the building a residential building or not
+Building_Painted,"is the building painted or not (N-Painted, V-Not Painted)"
+Building_Fenced,"is the building fence or not (N-Fenced, V-Not Fenced)"
+Garden,building has garden or not (V-has garden; O-no garden)
+Settlement,Area where the building is located. (R- rural area; U- urban area)
+Building Dimension,Size of the insured building in m2
+Building_Type,"The type of building (Type 1, 2, 3, 4)"
+Date_of_Occupancy,date building was first occupied
+NumberOfWindows,number of windows in the building
+Geo Code,Geographical Code of the Insured building
+Claim,"target variable. (0: no claim, 1: at least one claim over insured period)."
